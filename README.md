@@ -8,9 +8,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | درباره من
 
-Hi! I'm Mahdi, a WordPress developer and Python learner passionate about web development and technology.
+🇬🇧 **English**
+
+Hi! I'm Mahdi, a professional WordPress developer and Python learner passionate about web development and technology.
 
 - 🌐 Professional WordPress Developer
 - 🐍 Currently learning Python
@@ -18,12 +20,15 @@ Hi! I'm Mahdi, a WordPress developer and Python learner passionate about web dev
 - 🚀 Always exploring new technologies
 - 🎯 Focused on improving my development skills
 
+🇮🇷 **فارسی**
+
 سلام! من مهدی هستم؛ توسعه‌دهنده حرفه‌ای وردپرس و علاقه‌مند به برنامه‌نویسی و تکنولوژی.
 
 - 🌐 تسلط حرفه‌ای بر WordPress
-- 🐍 در حال یادگیری Python
+- 🐍 در حال یادگیری زبان برنامه‌نویسی Python
 - 💻 علاقه‌مند به طراحی و توسعه وب‌سایت
 - 🚀 مشتاق یادگیری تکنولوژی‌های جدید
+- 🎯 همیشه در مسیر پیشرفت و یادگیری
 
 ---
 
@@ -48,16 +53,20 @@ Hi! I'm Mahdi, a WordPress developer and Python learner passionate about web dev
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-era&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-era&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahdi-era&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
 </p>
 
 ---
 
-## 🎯 My Goals
+## 🎯 My Goals | اهداف من
 
 - 🌐 Build professional websites
 - 🐍 Master Python programming
@@ -69,10 +78,12 @@ Hi! I'm Mahdi, a WordPress developer and Python learner passionate about web dev
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mahdi-era">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <b>⚡ Code. Create. Innovate. ⚡</b>
